@@ -1,0 +1,5 @@
+{
+  "name": "BookNavi AI",
+  "description": "사용자의 수준과 목표에 맞춰 책을 추천하고, 읽기 전/도중/이후의 시행착오를 줄여주는 AI 기반 독서 커리큘럼 서비스",
+  "requestFramePermissions": []
+}
